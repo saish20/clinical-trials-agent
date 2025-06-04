@@ -5,7 +5,7 @@ An AI-powered research agent that allows you to:
 - 📄 Get summarized insights using LLMs
 - 💡 Highlight non-invasive or imaging-based trials
 - 🗨️ Interactive Q&A about trial details
-- 🌐 Web interface with Streamlit
+- 🌐 Web interface with Streamlit [Visit Clinical Trials Agent App](https://clinical-trials-agent-g98xw7jjgxjwf7j8wtxvhl.streamlit.app/)
 
 ---
 
